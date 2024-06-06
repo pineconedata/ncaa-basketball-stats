@@ -13,11 +13,17 @@ This project has been broken up into the following parts:
         - [`player_info.xlsx`](player_info.xlsx)
         - [`player_stats.xlsx`](player_stats.xlsx)
         - [`player_data_raw.xlsx`](player_data.xlsx)
-3. **Data Cleaning and Preprocessing**
+2. **Data Cleaning and Preprocessing**
     - [Full article](https://www.pineconedata.com/2024-05-02-basketball-data-cleaning-preprocessing/)
     - Notebook
         - [`2_data_cleaning_preprocessing.ipynb`](2_data_cleaning_preprocessing.ipynb)
     - Datasets
         - [`player_data_raw.xlsx`](player_data_raw.xlsx)
         - [`player_data_clean.xlsx`](player_data_clean.xlsx)
-5. **Feature Engineering**
+3. **Feature Engineering**
+    - [Full article](https://www.pineconedata.com/2024-05-30-basketball-feature_engineering/)
+    - Notebook
+        - [`3_feature_engineering.ipynb`](3_feature_engineering.ipynb)
+    - Datasets
+        - [`player_data_clean.xlsx`](player_data_clean.xlsx)
+        - [`player_data_engineered.xlsx`](player_data_engineered.xlsx)
