@@ -7,23 +7,23 @@ This project has been broken up into the following parts:
 1. **Project Setup and Data Acqusition**
     - [Full article](https://www.pineconedata.com/2024-04-11-basketball-data-acquisition/)
     - Notebook
-        - [`1_data_acquisition.ipynb`](1_data_acquisition.ipynb)
+        - [`1_data_acquisition.ipynb`](/notebooks/1_data_acquisition.ipynb)
     - Datasets
-        - [`2024-04-07 NCAA WBB-Div1 Player Info.csv`](2024-04-07%20NCAA%20WBB-Div1%20Player%20Info.csv)
-        - [`player_info.xlsx`](player_info.xlsx)
-        - [`player_stats.xlsx`](player_stats.xlsx)
-        - [`player_data_raw.xlsx`](player_data.xlsx)
+        - [`2024-04-07 NCAA WBB-Div1 Player Info.csv`](/data/2024-04-07%20NCAA%20WBB-Div1%20Player%20Info.csv)
+        - [`player_info.xlsx`](/data/player_info.xlsx)
+        - [`player_stats.xlsx`](/data/player_stats.xlsx)
+        - [`player_data_raw.xlsx`](/data/player_data.xlsx)
 2. **Data Cleaning and Preprocessing**
     - [Full article](https://www.pineconedata.com/2024-05-02-basketball-data-cleaning-preprocessing/)
     - Notebook
-        - [`2_data_cleaning_preprocessing.ipynb`](2_data_cleaning_preprocessing.ipynb)
+        - [`2_data_cleaning_preprocessing.ipynb`](/notebooks/2_data_cleaning_preprocessing.ipynb)
     - Datasets
-        - [`player_data_raw.xlsx`](player_data_raw.xlsx)
-        - [`player_data_clean.xlsx`](player_data_clean.xlsx)
+        - [`player_data_raw.xlsx`](/data/player_data_raw.xlsx)
+        - [`player_data_clean.xlsx`](/data/player_data_clean.xlsx)
 3. **Feature Engineering**
     - [Full article](https://www.pineconedata.com/2024-05-30-basketball-feature_engineering/)
     - Notebook
-        - [`3_feature_engineering.ipynb`](3_feature_engineering.ipynb)
+        - [`3_feature_engineering.ipynb`](/notebooks/3_feature_engineering.ipynb)
     - Datasets
-        - [`player_data_clean.xlsx`](player_data_clean.xlsx)
-        - [`player_data_engineered.xlsx`](player_data_engineered.xlsx)
+        - [`player_data_clean.xlsx`](/data/player_data_clean.xlsx)
+        - [`player_data_engineered.xlsx`](/data/player_data_engineered.xlsx)
