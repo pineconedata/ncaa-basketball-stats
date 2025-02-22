@@ -10,7 +10,7 @@ This project has been broken up into the following parts:
         - [`2024-04-07 NCAA WBB-Div1 Player Info.csv`](/data/2024-04-07%20NCAA%20WBB-Div1%20Player%20Info.csv)
         - [`player_info.xlsx`](/data/player_info.xlsx)
         - [`player_stats.xlsx`](/data/player_stats.xlsx)
-        - [`player_data_raw.xlsx`](/data/player_data.xlsx)
+        - [`player_data_raw.xlsx`](/data/player_data_raw.xlsx)
 2. **Data Cleaning and Preprocessing**
     - [Full article](https://www.pineconedata.com/2024-05-02-basketball-data-cleaning-preprocessing/)
     - Notebook
