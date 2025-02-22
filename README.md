@@ -28,24 +28,44 @@ This project has been broken up into the following parts:
 4. **Exploratory Data Analysis**
     - [Full article](https://www.pineconedata.com/2024-06-28-basketball-data-exploration/)
     - Notebook
-        - [`4_data_exploration.ipynb`](/data/4_data_exploration.ipynb)
+        - [`4_data_exploration.ipynb`](/notebooks/4_data_exploration.ipynb)
     - Dataset(s)
         - Uses [`player_data_engineered.xlsx`](/data/player_data_engineered.xlsx). No new dataset was created.
 5. **Data Visualizations**
     - [Full article](https://www.pineconedata.com/2024-07-29-basketball-visualizations/)
     - Notebook
-        - [`5_data_visualization.ipynb`](/data/5_data_visualization.ipynb)
+        - [`5_data_visualization.ipynb`](/notebooks/5_data_visualization.ipynb)
     - Dataset(s)
         - Uses [`player_data_engineered.xlsx`](/data/player_data_engineered.xlsx). No new dataset was created.
 6. **Selecting a Machine Learning Model**
     - [Full article](https://www.pineconedata.com/2024-08-12-basketball-select-ml-ols/)
     - Notebook
-        - [`6_model_selection.ipynb`](/data/6_model_selection.ipynb)
+        - [`6_model_selection.ipynb`](/notebooks/6_model_selection.ipynb)
     - Dataset(s)
         - Uses [`player_data_engineered.xlsx`](/data/player_data_engineered.xlsx). No new dataset was created.
 7. **Training a Linear Regression Model**
     - [Full article](https://www.pineconedata.com/2024-09-13-basketball-train-ols/)
     - Notebook
-        - [`7_model_training.ipynb`](/data/7_model_training.ipynb)
+        - [`7_model_training.ipynb`](/notebooks/7_model_training.ipynb)
     - Dataset(s)
-        - Uses [`player_data_engineered.xlsx`](/data/player_data_engineered.xlsx). No new dataset was created.
+        - Uses [`player_data_engineered.xlsx`](/data/player_data_engineered.xlsx).
+        - [`X_test_full.csv`](/data/X_test_full.csv)
+        - [`X_test_few.csv`](/data/X_test_few.csv)
+        - [`y_actual.csv`](/data/y_actual.csv)
+     - Model(s)
+        - [`model_full.sav`](/models/model_full.sav)
+        - [`model_few.sav`](/models/model_few.sav)
+8. **Evaluating a Linear Regression Model**
+     - [Full article](https://www.pineconedata.com/2024-11-27-basketball-evaluate-ols-model/)
+     - Notebook
+        - [`8_model_evaluation.ipynb`](/notebooks/8_model_evaluation.ipynb)
+    - Dataset(s)
+        - [`X_test_full.csv`](/data/X_test_full.csv)
+        - [`X_test_few.csv`](/data/X_test_few.csv)
+        - [`y_actual.csv`](/data/y_actual.csv)
+        - [`y_pred_full.csv`](/data/y_pred_full.csv)
+        - [`y_pred_few.csv`](/data/y_pred_few.csv)
+        - [`y_pred_base.csv`](/data/y_pred_base.csv)
+     - Model(s)
+        - [`model_full.sav`](/models/model_full.sav)
+        - [`model_few.sav`](/models/model_few.sav)
