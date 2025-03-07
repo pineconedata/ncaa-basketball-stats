@@ -49,6 +49,8 @@ This project has been broken up into the following parts:
         - [`7_model_training.ipynb`](/notebooks/7_model_training.ipynb)
     - Dataset(s)
         - Uses [`player_data_engineered.xlsx`](/data/player_data_engineered.xlsx).
+        - [`X_train_full.csv`](/data/X_train_full.csv)
+        - [`X_train_few.csv`](/data/X_train_few.csv)
         - [`X_test_full.csv`](/data/X_test_full.csv)
         - [`X_test_few.csv`](/data/X_test_few.csv)
         - [`y_actual.csv`](/data/y_actual.csv)
