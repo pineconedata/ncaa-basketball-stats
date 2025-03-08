@@ -53,6 +53,8 @@ This project has been broken up into the following parts:
         - [`X_train_few.csv`](/data/X_train_few.csv)
         - [`X_test_full.csv`](/data/X_test_full.csv)
         - [`X_test_few.csv`](/data/X_test_few.csv)
+        - [`y_train_full.csv`](/data/y_train_full.csv)
+        - [`y_train_few.csv`](/data/y_train_few.csv)
         - [`y_actual.csv`](/data/y_actual.csv)
      - Model(s)
         - [`model_full.sav`](/models/model_full.sav)
